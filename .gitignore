@@ -1,1 +1,15 @@
-.DS_Store
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+/esa_bui/taschenrechner_gradle/build
+/esa_bui/taschenrechner_gradle/bin
+/esa_bui/taschenrechner_gradle/.gradle
+
+
+# Ignore Eclipse Settings
+/esa_bui/taschenrechner_gradle/.project
+/esa_bui/taschenrechner_gradle/.settings
+
+# Other
+**/.DS_Store
